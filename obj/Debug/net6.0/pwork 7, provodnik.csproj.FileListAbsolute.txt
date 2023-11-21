@@ -1,0 +1,14 @@
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\bin\Debug\net6.0\pwork 7, provodnik.exe
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\bin\Debug\net6.0\pwork 7, provodnik.deps.json
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\bin\Debug\net6.0\pwork 7, provodnik.runtimeconfig.json
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\bin\Debug\net6.0\pwork 7, provodnik.dll
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\bin\Debug\net6.0\pwork 7, provodnik.pdb
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\pwork 7, provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\pwork 7, provodnik.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\pwork 7, provodnik.AssemblyInfo.cs
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\pwork 7, provodnik.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\pwork 7, provodnik.dll
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\refint\pwork 7, provodnik.dll
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\pwork 7, provodnik.pdb
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\pwork 7, provodnik.genruntimeconfig.cache
+C:\Users\Влад\source\repos\pwork 7, provodnik\pwork 7, provodnik\obj\Debug\net6.0\ref\pwork 7, provodnik.dll
